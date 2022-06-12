@@ -1,0 +1,33 @@
+[submodule "pack/plugins/start/vim-startify"]
+	path = pack/plugins/start/vim-startify
+	url = git@github.com:mhinz/vim-startify.git
+[submodule "pack/plugins/start/lightline"]
+	path = pack/plugins/start/lightline
+	url = git@github.com:itchyny/lightline.vim.git
+[submodule "pack/plugins/start/fzf"]
+	path = pack/plugins/start/fzf
+	url = git@github.com:junegunn/fzf.vim.git
+[submodule "pack/plugins/start/nvim-lsp-installer"]
+	path = pack/plugins/start/nvim-lsp-installer
+	url = git@github.com:williamboman/nvim-lsp-installer.git
+[submodule "pack/plugins/start/nvim-lspconfig"]
+	path = pack/plugins/start/nvim-lspconfig
+	url = git@github.com:neovim/nvim-lspconfig.git
+[submodule "pack/plugins/start/nvim-cmp"]
+	path = pack/plugins/start/nvim-cmp
+	url = git@github.com:hrsh7th/nvim-cmp.git
+[submodule "pack/plugins/start/cmp-nvim-lsp"]
+	path = pack/plugins/start/cmp-nvim-lsp
+	url = git@github.com:hrsh7th/cmp-nvim-lsp.git
+[submodule "pack/plugins/start/vim-monokai"]
+	path = pack/plugins/start/vim-monokai
+	url = git@github.com:sickill/vim-monokai.git
+[submodule "pack/plugins/start/cmp-vsnip"]
+	path = pack/plugins/start/cmp-vsnip
+	url = git@github.com:hrsh7th/cmp-vsnip.git
+[submodule "pack/plugins/start/vim-vsnip"]
+	path = pack/plugins/start/vim-vsnip
+	url = git@github.com:hrsh7th/vim-vsnip.git
+[submodule "pack/plugins/start/rainbow"]
+	path = pack/plugins/start/rainbow
+	url = git@github.com:luochen1990/rainbow.git
