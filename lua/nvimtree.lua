@@ -57,15 +57,15 @@ nvim_tree.setup { -- BEGIN_DEFAULT_OPTS
       },
     },
     icons = {
-      webdev_colors = true,
+      webdev_colors = false,
       git_placement = "before",
       padding = " ",
       symlink_arrow = " ➛ ",
       show = {
-        file = true,
-        folder = true,
-        folder_arrow = true,
-        git = true,
+        file = false,
+        folder = false,
+        folder_arrow = false,
+        git = false,
       },
       glyphs = {
 --        default = "",
@@ -110,12 +110,12 @@ nvim_tree.setup { -- BEGIN_DEFAULT_OPTS
   diagnostics = {
     enable = false,
     show_on_dirs = false,
-    icons = {
-      hint = "",
-      info = "",
-      warning = "",
-      error = "",
-    },
+--    icons = {
+--      hint = "",
+--      info = "",
+--      warning = "",
+--      error = "",
+--    },
   },
   filters = {
     dotfiles = false,
