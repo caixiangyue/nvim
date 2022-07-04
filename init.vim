@@ -15,7 +15,7 @@ nmap <C-s> :Rg<CR>
 let g:fzf_action = { 'ctrl-e': 'edit' }
 
 noremap <BackSpace> :nohl<CR>
-set rtp+=/usr/local/opt/fzf
+set rtp+=~/.fzf
 
 
 lua << EOF
