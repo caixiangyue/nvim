@@ -3,7 +3,8 @@ vim.g.rainbow_active = 1
 
 --local colorscheme = "tokyonight"
 --local colorscheme = "gruvbox"
-local colorscheme = "molokai"
+--local colorscheme = "molokai"
+local colorscheme = "onedark"
 -- tokyonight
 -- OceanicNext
 -- gruvbox

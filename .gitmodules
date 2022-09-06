@@ -49,3 +49,6 @@
 [submodule "pack/plugins/start/molokai"]
 	path = pack/plugins/start/molokai
 	url = git@github.com:tomasr/molokai.git
+[submodule "pack/plugins/start/onedark"]
+	path = pack/plugins/start/onedark
+	url = git@github.com:navarasu/onedark.nvim.git
