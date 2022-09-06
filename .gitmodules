@@ -46,3 +46,9 @@
 [submodule "pack/plugins/start/fzf.vim"]
 	path = pack/plugins/start/fzf.vim
 	url = git@github.com:junegunn/fzf.vim.git
+[submodule "pack/plugins/start/gruvbox"]
+	path = pack/plugins/start/gruvbox
+	url = git@github.com:ellisonleao/gruvbox.nvim.git
+[submodule "pack/plugins/start/molokai"]
+	path = pack/plugins/start/molokai
+	url = git@github.com:tomasr/molokai.git

@@ -1,10 +1,9 @@
 vim.o.background = "dark"
 vim.g.rainbow_active = 1
--- 半透明
--- vim.g.tokyonight_transparent = true
--- vim.g.tokyonight_transparent_sidebar = true
 
-local colorscheme = "tokyonight"
+--local colorscheme = "tokyonight"
+--local colorscheme = "gruvbox"
+local colorscheme = "molokai"
 -- tokyonight
 -- OceanicNext
 -- gruvbox
