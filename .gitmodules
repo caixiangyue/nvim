@@ -13,9 +13,6 @@
 [submodule "pack/plugins/start/cmp-nvim-lsp"]
 	path = pack/plugins/start/cmp-nvim-lsp
 	url = git@github.com:hrsh7th/cmp-nvim-lsp.git
-[submodule "pack/plugins/start/vim-monokai"]
-	path = pack/plugins/start/vim-monokai
-	url = git@github.com:sickill/vim-monokai.git
 [submodule "pack/plugins/start/cmp-vsnip"]
 	path = pack/plugins/start/cmp-vsnip
 	url = git@github.com:hrsh7th/cmp-vsnip.git
