@@ -7,8 +7,8 @@
 --   command_mode = "c",
 
 -- leader key 为空
-vim.g.mapleader = " "
-vim.g.maplocalleader = " "
+vim.g.mapleader = ","
+--vim.g.maplocalleader = ","
 
 local opt = {
   noremap = true,
